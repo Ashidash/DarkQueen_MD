@@ -1,14 +1,14 @@
 {
-  "name": "𝐷𝛥𝑅𝛫 𝑄𝑈𝛯𝛯𝛮 𝛭𝐷",
+  "name": "ᴄʜᴜɢɪʏᴀɴ ᴹᴰ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/2410f13a9a02224c996af.jpg",
+  "logo": "https://telegra.ph/file/cb7e07ac17786c9f4a9d5.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "X-Notiyar"
+      "value": "ᴄʜᴜɢɪʏᴀɴ ᴹᴰ"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94711928777"
+       "value": "919778535328"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
@@ -79,7 +79,7 @@
     "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "මෙය වෙනස් නොකරන්න❌",
+    "description": "ᴄʜᴜɢɪʏᴀɴ ᴹᴰ",
      "value": "-"
   },
     "WORKTYPE": {
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "ᴄʜᴜɢɪʏᴀɴ ᴹᴰ;₉₇ͨ₇ͪ₈ͧ₅ᷛ₃ͥ₅ⷱ₃ⷶ₂ᷠ₈",
      "required": false 
   },
   "heroku": {
